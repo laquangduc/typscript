@@ -1,0 +1,5 @@
+{
+    "posts": [
+      { "id": 1, "name": "json-server", "birthday": "2020-02-02" }
+    ]
+  }
